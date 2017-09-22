@@ -1,0 +1,40 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "law"
+    },
+    {
+      "id": 2,
+      "name": "finances"
+    },
+    {
+      "id": 3,
+      "name": "economics"
+    },
+    {
+      "id": 4,
+      "name": "it"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Harvey",
+      "lastName": "Spector",
+      "departmentId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Mikle",
+      "lastName": "Ross",
+      "departmentId": 1
+    },
+    {
+      "id": 3,
+      "firstName": "Tom",
+      "lastName": "Lipinsky",
+      "departmentId": 4
+    }
+  ]
+}

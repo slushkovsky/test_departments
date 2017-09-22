@@ -1,0 +1,30 @@
+{
+  "name": "test_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^5.2.2",
+    "axios": "^0.16.2",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^2.30.1",
+    "path": "^0.12.7",
+    "radium": "^0.19.4",
+    "react": "^15.6.1",
+    "react-burger-menu": "^2.1.6",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.6.0",
+    "file-loader": "^0.11.2"
+  },
+  "devDependencies": {
+    "json-server": "^0.12.0"
+  }
+}
